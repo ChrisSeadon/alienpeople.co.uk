@@ -1,19 +1,15 @@
 artist:
-  name: Your Awesome Band
-  tagline: Short information about your group, new album, etc
-  # seo_title:
-  # seo_description:
+  name: alien people
+  tagline: we come from mars
+  seo_title: Alien People Band
+  seo_description: Band from Guildford. Playing rock and roll music sent to us by aliens
   # contact_twitter_username:
   # contact_phone: 
-  # contact_email: 
+  # contact_email: alienpeopleofficial@gmail.com
 
 social:
-  - name: Facebook
-    url: https://facebook.com
   - name: Instagram
-    url: https://instagram.com
-  - name: Twitter
-    url: https://twitter.com
+    url: https://www.instagram.com/alienpeopleofficial/
   - name: Youtube
     url: https://youtube.com
   - name: Spotify
